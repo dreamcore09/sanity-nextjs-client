@@ -1,0 +1,25 @@
+{
+  "name": "sanity-nextjs-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamcore09/sanity-nextjs-client.git"
+  },
+  "keywords": [
+    "sanity",
+    "nextjs",
+    "api",
+    "client"
+  ],
+  "author": "Christian van de Luitgaarden <cvdluitgaarden@dreamcore.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamcore09/sanity-nextjs-client/issues"
+  },
+  "homepage": "https://github.com/dreamcore09/sanity-nextjs-client#readme"
+}
